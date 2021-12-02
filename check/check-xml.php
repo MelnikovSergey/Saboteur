@@ -1,7 +1,7 @@
 ﻿<?php
 
 function show_schema_errors() {
-	# later
+	# start with this task
 }
 
 libxml_use_internal_errors(true);
