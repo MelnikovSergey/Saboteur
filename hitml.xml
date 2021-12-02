@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml-stylesheet type="text/xsl" href="hitml.xsl" ?>
+
+<str>
+	<item value="1" />
+	<item value="2" />
+	<item value="3" />
+	<item value="4" />
+	<item value="5" />
+	<item value="6" />
+</str>
