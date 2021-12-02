@@ -2,7 +2,7 @@
      method="xml"
      encoding="utf-8"
      doctype-public="//W3C//DTD XHTML 1.0 Strict//EN"
-     doctype-system="http://www.w3.org/TR/xhtml/DTD/xhtml-strict.dtd"
+     doctype-system="https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
 
      omit-xml-declaration="yes"
      indent="yes" />
