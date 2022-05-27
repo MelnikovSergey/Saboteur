@@ -17,6 +17,24 @@
 		<title>Exp</title>
 	    </head>
 	    <body>
+		<style type="text/css">    
+			.string-item {
+			  border-top: 1px solid;
+			  padding: 0 0.5em;
+			  position: relative;
+			  min-width: 0.5em;
+			  min-height: 1.2em;
+			}
+
+			.beat-item {
+			  display: inline-block;
+			  margin-right: -0.25em;
+			}
+
+			.beat-item:last-child {
+			  margin-right: 0;
+			}
+		</style>	
 		<h1>Exp</h1>
 		<xsl:call-template name="drawStr" />
 		<!-- in process -->
